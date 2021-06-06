@@ -1,45 +1,45 @@
 
 body {
-				margin: 20px ;
+	margin: 20px ;
      }
 a { 
-		float: right;	
-	}
+	float: right;	
+  }
 div {
-		    margin: 0 auto;
-		    text-align: center;
-	   }
+	margin: 0 auto;
+	text-align: center;
+    }
 input {
-				 border-radius: 2px;
-				 border: 1px solid Gray;
-				 background-color: Gainsboro;
-				 width: 100%;
+	border-radius: 2px;
+	border: 1px solid Gray;
+	background-color: Gainsboro;
+	width: 100%;
       }
 .submit {
-           background-color: #4079ff;
-				   color: white;
-				   font-size: 16px;
-				   font-weight bold;
-				   font-align:center;
-				   padding: 5px;
-				   width: 30%;
+        background-color: #4079ff;
+	color: white;
+	font-size: 16px;
+	font-weight bold;
+	font-align:center;
+	padding: 5px;
+	width: 30%;
         }
  .submit2 {
-             background-color: white;
-             border-radius: 10px;
-				     color: DarkGray;
-				     font-size: 16px;
-				     font-weight bold;
-			  	   font-align:center;
-		  		   padding: 5px;      
+        background-color: white;
+        border-radius: 10px;
+        color: DarkGray;
+	font-size: 16px;
+	font-weight bold;
+	font-align:center;
+	padding: 5px;      
           }
   .submit3 {
-             background-color: white;
-             border-radius: 10px;
-				     color: DarkGray;
-				     font-size: 16px;
-				     font-weight bold;
-			  	   font-align:center;
-		  		   padding: 5px;
-		  		   width: 30%;     
+        background-color: white;
+        border-radius: 10px;
+	color: DarkGray;
+	font-size: 16px;
+	font-weight bold;
+	font-align:center;
+	padding: 5px;
+	width: 30%;     
           }
