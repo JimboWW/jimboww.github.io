@@ -5,7 +5,7 @@ body {
 a { 
 	float: right;	
   }
-div {
+div, h1 {
 	margin: 0 auto;
 	text-align: center;
     }
