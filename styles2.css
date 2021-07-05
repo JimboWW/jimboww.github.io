@@ -8,6 +8,8 @@ a {
 div, h1 {
 	margin: 0 auto;
 	text-align: center;
+	color: DarkGray; 
+	font-family: arial;
     }
 input {
 	border-radius: 2px;
